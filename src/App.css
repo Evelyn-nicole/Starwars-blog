@@ -1,0 +1,122 @@
+body {
+ background: rgba(0, 0, 0, 0.89);
+ background-image: url(
+  https://www.latercera.com/resizer/fp3PXa-xjMLxMvgpjlj7M2FAjJI=/800x0/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/J5RIIGQMJBGPPG6DFRIYCGV5LA.jpg);
+  width: 100%;
+}
+/* NAVBAR */
+.navbar-app{
+  height:120px;
+  border:1px solid rgba(53, 53, 4, 0.548);
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.603);
+}
+/* LOGO NAVBAR */
+.logo{
+  margin: -15px 1000px 0 20px;
+  width:180px;
+  height:150px;
+}
+
+.eliminiar-favoritos{
+  border-radius: 25px;
+  border:1px solid white;
+}
+
+
+/* CARD DESCRIPTION */
+.card-description{
+  width:1200px;
+  height:500px;
+  background:white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  border-radius: 15px;;
+}
+
+/*C/U CARD HOME*/
+.card{
+  width: 330px;
+  height:460px;
+  border-radius: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.418);
+  margin-top: 40px;
+  background: rgba(0, 0, 0, 0.589);
+  color: white;
+}
+.card:hover{
+  font-size: 20px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 20px 3px blue; 
+}
+
+.card-description-img-top{
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.photo-description {
+  margin-top:5px;
+}
+
+
+/* HOME */
+.titleHome{
+  color:rgba(255, 255, 255, 0.767);
+  font-family: cursive;
+  margin-top:60px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 45px;
+  width: 800px;
+}
+.titleHome:hover{
+  font-size: 50px;
+  border-radius: 20px;
+}
+
+/* BOTON LEER MAS */
+.botonCard{
+width:110px;
+height: 38px;
+border-radius:30px;
+margin-top:30px;
+margin-left: 20px;
+color:white;
+}
+.botonCard:hover{
+  box-shadow: 0px 0px 20px 5px blue; 
+  border-radius:200px;
+  font-size: 19px;
+  text-decoration:underline;
+}
+
+/* ICONO CORAZON FAVORITOS */
+.iconoHeart{
+color:rgba(216, 10, 10, 0.979);
+font-size:45px;
+float:right;
+margin-right: 25px;  
+margin-top: 10px;
+}
+.iconoHeart:hover{
+  font-size: 60px;
+  text-decoration:underline;
+  }
+
+/*NOT FOUND*/
+h6{
+  margin-top:20px;
+  margin-left:auto;
+  margin-right:auto;
+  color:rgba(241, 196, 15, 0.582);
+  font-size:50px;
+  width:500px;
+  height:350px;
+  text-align: center;
+  border-radius:90px;
+  background-image: url(
+    https://i.pinimg.com/originals/d0/73/c3/d073c3f982bb6dac9967ac46a5c49038.gif);
+}
+
